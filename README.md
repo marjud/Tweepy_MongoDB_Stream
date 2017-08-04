@@ -9,3 +9,4 @@ This code streams Twitter and stores tweets into MongoDB.
 - sys
 - dataset
 - pymongo
+- install via pip
