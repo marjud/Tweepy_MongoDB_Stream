@@ -8,4 +8,4 @@ This code streams Twitter and stores tweets into MongoDB.
 - tweepy
 - sys
 - dataset
--pymongo
+- pymongo
